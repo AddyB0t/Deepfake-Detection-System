@@ -149,9 +149,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 - This research was inspired by the paper "MesoNet: a Compact Facial Video Forgery Detection Network" by Afchar et al.
 - The implementation references "FaceForensics++: Learning to Detect Manipulated Facial Images" by Rössler et al.
 
-## Contact
-For questions or collaboration opportunities, please open an issue in the repository or contact the maintainers at deepfake.detection.project@example.com.
-
 ## References
 1. Chollet, F. (2017). Xception: Deep learning with depthwise separable convolutions. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1251-1258).
 2. Rössler, A., Cozzolino, D., Verdoliva, L., Riess, C., Thies, J., & Nießner, M. (2019). FaceForensics++: Learning to detect manipulated facial images. In Proceedings of the IEEE International Conference on Computer Vision (pp. 1-11).
